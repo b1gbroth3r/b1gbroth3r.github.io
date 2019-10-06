@@ -4,7 +4,7 @@ layout: default
 
 Text can be **bold**, _italic_, ~~strikethrough~~ or `keyword`.
 
-[Link to another page](./another-page.html).
+[My first post!](./docs/2019-10-5-wireless-attacks.md).
 
 There should be whitespace between paragraphs.
 
