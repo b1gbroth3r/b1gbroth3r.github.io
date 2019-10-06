@@ -29,3 +29,6 @@ To prevent against de-authentication and Man in the Middle attacks:
     3. Only browse to websites that enforce HTTPS. This is becoming more and more common on the internet, especially on any site that handles personal data or login information. As more websites enforce encrypted sessions between their site and the clients connecting to it, the harder it will be for MitM attacks to capture website login credentials in plaintext, as well as other sensitive information.
 
 That's all I have for now, but I might update this post in the next few weeks about how HTTPS works, what certificates are, and how an attacker might use their own certificate to decrypt encrypted HTTPS traffic and read the data in plaintext.
+
+Links:
+[Link to Wifi Pineapple](https://shop.hak5.org/products/wifi-pineapple)
