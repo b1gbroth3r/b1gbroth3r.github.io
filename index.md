@@ -14,4 +14,4 @@ Some of the topics that I'll post about will include:
 You get the idea.
 
 
-[My first post!](./docs/2019-10-5-wireless-attacks.md).
+[Check out my posts](./docs/2019-10-5-list_of_posts.md).
